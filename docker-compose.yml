@@ -1,0 +1,7 @@
+version: '3.5'
+
+services:
+  forex:
+    image: paidyinc/one-frame
+    ports:
+      - 8080:8080
